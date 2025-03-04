@@ -12,4 +12,5 @@
 - 📫 İletişim İçin Bana Ulaşın:
   
   E-Posta Adresim: yasinmehmetd@gmail.com
+  
   Sosyal Medya Adresim: @yasinmtdd
