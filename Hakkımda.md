@@ -1,4 +1,4 @@
-- 👋 Merhaba, Ben Yasin Mehmet @Yasinmtdd
+- 👋 Merhaba, Ben Yasin Mehmet (@Yasinmtdd)
   
 - 👀 İlgi Alanlarım:
   Kod yazma, Oyun/Uygulama geliştirme, Veri   Tabanı geliştirme, Masaüstü geliştirme,     Web tasarım ve geliştirme.
@@ -7,7 +7,7 @@
   C++,C#,Python,Java
   
 - 💞️ İşbirliği Yapmayı Düşündüğüm Yerler:
-  Yazılım şirketleri, Uygulama/Masaüstü       geliştirme kuruluşları, Oyun geliştirme     kuruluşları, Web tasarımı ve geliştirme     yapan kuruluşlar, Gömülü sistemler ile      ilgilenen kuruluşlar.
+  Yazılım şirketleri, Uygulama/Masaüstü       geliştirme kuruluşları, Oyun geliştirme     kuruluşları, Web tasarımı ve geliştirme     yapan kuruluşlar, Gömülü Sistemler ile      yürütülen kuruluşlar.
   
 - 📫 İletişim İçin Bana Ulaşın:
   
