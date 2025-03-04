@@ -1,4 +1,4 @@
-- 👋 Merhaba, Ben Yasin Mehmet (@Yasinmtdd)
+- 👋 Merhaba, Ben Yasin Mehmet( @Yasinmtdd )
   
 - 👀 İlgi Alanlarım:
   Kod yazma, Oyun/Uygulama geliştirme, Veri   Tabanı geliştirme, Masaüstü geliştirme,     Web tasarım ve geliştirme.
